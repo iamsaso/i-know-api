@@ -17,5 +17,7 @@ services:
       context: .
     image: i-know-api:local
     network_mode: "host"
+    ports:
+    - "127.0.0.1:3000:3000"
     volumes:
       - ./spec:/go/src/github.com/sasso/i-know-api/spec
