@@ -2,6 +2,10 @@
 
 Build a simple JSON API
 
+#### Requested Endpoint
+```
+/
+```
 
 #### Sample Input
 ```

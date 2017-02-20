@@ -2,6 +2,10 @@
 
 Build a simple JSON API that uses basic auth to access protected `/me` resource
 
+#### Requested Endpoint
+```
+/me
+```
 
 #### Sample Input
 ```
