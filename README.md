@@ -2,7 +2,7 @@
 Language agnostic platform to test API responses and help drive coding interviews
 
 # Requirements
-![Docker](https://docs.docker.com/engine/getstarted/step_one/#/step-1-get-docker)
+[Docker](https://docs.docker.com/engine/getstarted/step_one/#/step-1-get-docker)
 
 # Specs
 * [Hello World](specs/hello_world/)  
